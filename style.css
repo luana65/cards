@@ -1,0 +1,38 @@
+.card {
+  font-family: monospace;
+  background-color: white;
+  padding: 30px;
+  width: 300px;
+  border-radius: 20px;
+  transform: rotate(-2deg);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 10px;
+}
+
+.number {
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.title {
+  font-size: 20px;
+  margin: 10px 0 0;
+}
+
+.divider {
+  margin: 10px 0;
+  border: 1px solid #444;
+  transform: rotate(-1deg);
+}
+
+.content {
+  font-size: 16px;
+  color: #555;
+  margin: 10px 0;
+}
